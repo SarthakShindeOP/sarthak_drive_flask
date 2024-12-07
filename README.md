@@ -6,7 +6,7 @@
 
 
 # Register page
-![alt text] (/view/register.png)
+![alt text](/view/register.png)
 
 
 # Dashboard page
