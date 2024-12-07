@@ -2,12 +2,12 @@
 
 
 # Login page
-![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/login.png?raw=true)
+![alt text](S:\sarthak_drive_flask\view\login.png)
 
 
 # Register page
-![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/register.png?raw=true)
+![alt text](S:\sarthak_drive_flask\view\register.png)
 
 
 # Dashboard page
-![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/dashboard.png?raw=true)
+![alt text](S:\sarthak_drive_flask\view\dashboard.png)
