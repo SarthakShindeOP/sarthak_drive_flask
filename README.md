@@ -2,12 +2,12 @@
 
 
 # Login page
-![alt text](S:\sarthak_drive_flask\view\login.png)
+![alt text](/view/login.png)
 
 
 # Register page
-![alt text](S:\sarthak_drive_flask\view\register.png)
+![alt text] (/view/register.png)
 
 
 # Dashboard page
-![alt text](S:\sarthak_drive_flask\view\dashboard.png)
+![alt text](/view/dashboard.png)
